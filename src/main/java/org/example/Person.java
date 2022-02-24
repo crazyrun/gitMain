@@ -8,4 +8,5 @@ package org.example;
  */
 public class Person {
     private String name;
+    private int id; // 这个是github上添加 
 }
