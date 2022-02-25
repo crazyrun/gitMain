@@ -8,4 +8,5 @@ package org.example;
  */
 public class Dog {
     private String dogName;  // add in idea
+    private String dogName2; // add in github
 }
