@@ -9,4 +9,5 @@ package org.example;
 public class Cat {
     private String catName;
     private String color;
+    private int catAge; // add in github
 }
